@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+## Quickly Web App - E-commerce 🍔
+Version WEB del proyecto Quickly Food.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Trabajo realizado
+Web App desarrollada en 15 días como challenge grupal durante mi transcurso por el bootcamp de MindHub. Es una app pensada para un comercio gastronómico que quiera tener su propia web app de comida rápida y delivery a domicilio en donde, el usuario puede crearse una cuenta, realizar un pedido y pago online, ingresar sus datos para asi recibir su pedido a domicilio. Tambien tiene su perfil en donde puede controlar el estado de su pedido actual. Este es modificado dese un panel de administración
+<br></br>
 
-## Available Scripts
+<div align='center'>
+  <img src="https://media.giphy.com/media/ISHLh0zai8op6ISgqF/giphy-downsized-large.gif" width="650"/>
+</div>
 
-In the project directory, you can run:
+<br></br>
+>- Para poder ver el demo del proyecto realizado puedes ingresar al siguiente link : [Quickly - Web App](https://quickly-food.herokuapp.com/)
+>- Para ver la version mobile ingrese al siguiente repositorio : [Quickly - version mobile](https://github.com/Ndorola/quickly-mobile)
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Empezamos! 🚀
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```bash
+# Instalar dependencias para el cliente
+npm install
 
-### `yarn test`
+# Ejecutar
+npm start
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tecnologías 🛠️
+Este proyecto fue realizado por las siguientes tecnologías
 
-### `yarn build`
+>- [React](https://reactjs.org/) - Librería de Frontend
+>- [CSS](https://developer.mozilla.org/es/docs/Web/CSS) - Lenguaje de estilos
+>- [Redux](https://es.redux.js.org/) - Librería para manejo del estado
+>- [Node](https://nodejs.org/es/) - Entorno de ejecución para JavaScript
+>- [Express](https://expressjs.com/es/) - Framework para Backend
+>- [MongoDB](https://www.mongodb.com/) - Base de datos
+>- [Mongoose](https://mongoosejs.com/) - Framework para modelado de base de datos
+>- [Socket](https://socket.io/) - Framework para controlar datos en tiempo real
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Desarrollado por 🤓
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+>- [Daniel Sepúlveda](https://github.com/DanSepulveda)
+>- [Rafael Mian](https://github.com/rafaelmian1)
+>- [Cristian Tortoza](https://github.com/CristianTortoza)
+>- [Paula Rivarola](https://github.com/Paularivarola)
+>- [Micaela Márquez](https://github.com/Ndorola)
+>- [Nicole Dorola](https://github.com/Ndorola)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Expresiones de Gratitud 💗
+Se agradece a Fernando Biaus por la mentoría y dedicación.
+También a Mindhub por la oportunidad de crecer como developers.
