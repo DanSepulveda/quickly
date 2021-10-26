@@ -42,7 +42,7 @@ Este proyecto fue realizado por las siguientes tecnologías
 >- [Rafael Mian](https://github.com/rafaelmian1)
 >- [Cristian Tortoza](https://github.com/CristianTortoza)
 >- [Paula Rivarola](https://github.com/Paularivarola)
->- [Micaela Márquez](https://github.com/Ndorola)
+>- [Micaela Márquez](https://github.com/MicaelaMarqez)
 >- [Nicole Dorola](https://github.com/Ndorola)
 
 
